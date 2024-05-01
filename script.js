@@ -23,20 +23,21 @@ console.log("we're logging out")
 // let sum = firstCard + secondCard 
 // let hasBlackJack = false
 // let isAlive = true
-
+let = document.getElementById("message-el")
+let = S
 // console.log(sum)
 
-// if (sum <= 20) {
-//     message = ("Do you want to draw a new card?")
+if (sum <= 20) {
+    message = ("Do you want to draw a new card?")
 
-//       }
+      }
 
-// } else if (sum === 21) {
-//     message = ("Wohoo! You're got Blackjack! ")
-//     hasBlackJack = true
-// } else {
-//     message = ("You're out of the game!  ")
-//     isAlive = false
+} else if (sum === 21) {
+    message = ("Wohoo! You're got Blackjack! ")
+    hasBlackJack = true
+} else {
+    message = ("You're out of the game!  ")
+    isAlive = false
 
 
 // }
